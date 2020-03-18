@@ -422,7 +422,7 @@ Loading...
 </div>
 <div class="font-tester events">
 </div>
-<script src="/tanzil/js/data.js.php?locale=en_US" type="text/javascript"></script>
+<script src="/tanzil/js/data.js" type="text/javascript"></script>
 <script src="/tanzil/js/tanzil(v1.5).js" type="text/javascript"></script>
 </body>
 </html>
